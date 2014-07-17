@@ -2,7 +2,7 @@
 Summary:	RightScale's robust HTTP/S connection module
 Name:		ruby-%{gem_name}
 Version:	1.4.1
-Release:	1
+Release:	2
 License:	MIT
 Group:		Development/Languages
 Source0:	http://gems.rubyforge.org/gems/%{gem_name}-%{version}.gem
